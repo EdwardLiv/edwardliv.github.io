@@ -1,0 +1,58 @@
+I"L<p>Lorem ipsum dolor sit amet</p>
+
+<h2 id="past-results">Past results</h2>
+
+<p>Lorem ipsum dolor sit amet</p>
+
+<iframe src="/img/posts/baccalaureate/fig_scatter_1.html" height="500px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+<h2 id="the-urban-rural-divide">The urban-rural divide</h2>
+
+<p>[https://insse.ro/cms/files/publicatii/Romania_in_cifre_breviar_statistic_2018.pdf]</p>
+
+<p>Urban highschool students are far more likely to pass the exam (71%) than their rural counterparts (56%). Nevertheless, this isn’t the only worrying statistic.
+According to INSSE, 46% of Romania’s population lived in rural areas in 2017. However, students that go to rural highschools account for only 32% of all Baccalaureate participants. This can be a sign of rural families that prefer urban highschools or a sign of high dropout rates in rural areas.</p>
+
+<iframe src="/img/posts/baccalaureate/fig_bar_1.html" height="350px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+<h2 id="girls-perform-better-than-boys">Girls perform better than boys</h2>
+
+<p>Girls are more likely to pass the Baccalaureate (71%) than boys are (60%). The latter are prone to getting eliminated for trying to cheat the exam (115 compared to 32 girls eliminated) despite there being fewer boys participating in the national exam. This can be explained by their risk-taking behavior, or maybe girls are better at not getting caught by the teachers. Boys are also more likely to not show up at the exam (6%) than girls (4%).</p>
+
+<iframe src="/img/posts/baccalaureate/fig_bar_2.html" height="350px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+<h2 id="school-specialization-matters">School specialization matters</h2>
+
+<p>Romanian highschools have a wide variety of specializations to choose from. We can view them on the following treemap chart, which is composed of rectangles ordered from largest to smallest. The area of each rectangle is determined by the number of students. The most popular specialization is “Matematică-Informatică” (24275 students).</p>
+
+<iframe src="/img/posts/baccalaureate/fig_treemap_1.html" height="600px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+<p>Although it is known that students from certain specializations perform better, there are few official sources or mainstream news that show this gap statistically. Coloring the treemap proportionally with the pass rate, we can observe huge differences. For example, 85% of “Matematică-Informatică” students passed, whereas only 10% of “Tehnician în agricultură” students passed.</p>
+
+<iframe src="/img/posts/baccalaureate/fig_treemap_2.html" height="600px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+<p>Students can pick the subject of their third test. The most popular choice is anatomy (72% pass rate). Almost all students that picked chemistry and physics have passed (96% and 94%).</p>
+
+<iframe src="/img/posts/baccalaureate/fig_treemap_3.html" height="600px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+<h2 id="biased-grading">Biased grading</h2>
+
+<p>In order to pass the exam, the student needs more than grade 5 in each test and an average of 6. Out of 127.001 non-absent candidates, 146 managed to get a perfect grade average.</p>
+
+<iframe src="/img/posts/baccalaureate/fig_histogram_1.html" height="500px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+<p>Rather than look at the final grade histogram, it’s more interesting to break it down into the multiple exams to observe some patterns. There are three big spikes:</p>
+<ul>
+  <li>grade 1.00: students that didn’t prepare at all for the exam</li>
+  <li>grade 5.00: students that barely passed</li>
+  <li>grade 10.00: students with maximum grade</li>
+</ul>
+
+<p>Notice the big dropoff just below grade 5 followed by a huge spike. There are barely any students in the 4.90-4.99 range, while the next one has a hundred times more students. Some teachers would rather artificially increase the grade to 5 than to fail a 4.9 student.</p>
+
+<iframe src="/img/posts/baccalaureate/fig_histogram_2.html" height="500px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="/img/posts/baccalaureate/fig_histogram_3.html" height="500px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="/img/posts/baccalaureate/fig_histogram_4.html" height="500px" width="100%" frameborder="0" scrolling="no"></iframe>
+:ET
