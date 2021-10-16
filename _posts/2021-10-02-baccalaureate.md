@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Baccalaureate Data Visualization"
-subtitle: "How did Romanian highschoolers perform at the national exam?"
+subtitle: "How did Romanian high schoolers perform at the national exam?"
 background: '/img/posts/baccalaureate/books.jpg'
 ---
 
@@ -17,8 +17,8 @@ In recent years, the national pass rate has been around <span style="color:#1F77
 
 ## The urban-rural divide
 
-Urban highschool students are far more likely to pass the exam <span style="color:#1F77B4">**(71%)**</span> than their rural counterparts <span style="color:#1F77B4">**(56%)**</span>. Nevertheless, this isn’t the only worrying statistic.
-According to the [National Institute of Statistics](https://insse.ro/cms/files/publicatii/Romania_in_cifre_breviar_statistic_2018.pdf), 46% of Romania’s population lived in rural areas in 2017. However, students that go to rural highschools account for only <span style="color:#D62728">**32%**</span> of all Baccalaureate participants. This can be a sign of rural families that prefer urban highschools or a sign of high dropout rates in rural areas.
+Urban high school students are far more likely to pass the exam <span style="color:#1F77B4">**(71%)**</span> than their rural counterparts <span style="color:#1F77B4">**(56%)**</span>. Nevertheless, this isn’t the only worrying statistic.
+According to the [National Institute of Statistics](https://insse.ro/cms/files/publicatii/Romania_in_cifre_breviar_statistic_2018.pdf), 46% of Romania’s population lived in rural areas in 2017. However, students that go to rural high schools account for only <span style="color:#D62728">**32%**</span> of all Baccalaureate participants. This can be a sign of rural families that prefer urban high schools or a sign of high dropout rates in rural areas.
 
 <iframe src="/img/posts/baccalaureate/fig_bar_1.html" height="350px" width="100%" frameBorder="0" scrolling="no"></iframe>
 
@@ -30,7 +30,7 @@ Girls are more likely to pass the Baccalaureate <span style="color:#1F77B4">**(7
 
 ## School specialization matters
 
-Romanian highschools have a wide variety of specializations to choose from. We can view them on the following treemap chart, which is composed of rectangles ordered from largest to smallest. The area of each rectangle is determined by the number of students. The most popular specialization is *Matematică-Informatică* (24.275 students).
+Romanian highs chools have a wide variety of specializations to choose from. We can view them on the following treemap chart, which is composed of rectangles ordered from largest to smallest. The area of each rectangle is determined by the number of students. The most popular specialization is *Matematică-Informatică* (24.275 students).
 
 <iframe src="/img/posts/baccalaureate/fig_treemap_1.html" height="600px" width="100%" frameBorder="0" scrolling="no"></iframe>
 
