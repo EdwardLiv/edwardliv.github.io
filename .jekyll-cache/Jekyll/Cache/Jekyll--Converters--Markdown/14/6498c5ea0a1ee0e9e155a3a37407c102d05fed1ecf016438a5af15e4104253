@@ -1,0 +1,17 @@
+I"Ì<iframe src="https://www.youtube.com/embed/L4ozXb8_jkY" height="500px" width="100%"></iframe>
+
+<p><a href="https://en.wikipedia.org/wiki/Procedural_generation">Procedural generation</a> is a method of creating data automatically, thus reducing development time significantly. It can be used for generating large virtual worlds. Minecraft and Civilization are popular video games that make use of this technique.</p>
+
+<p>In order to create terrain with variable elevation, one would either have to manually draw the <a href="https://en.wikipedia.org/wiki/Heightmap">heightmap</a>, or use a noise function for outputting the height values. One such example is <a href="https://en.wikipedia.org/wiki/Simplex_noise">simplex noise</a>.</p>
+
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+
+<p><img src="/img/posts/procedural-generation/sn1.png" alt="Simplex noise" style="width:128px;height:128px;" class="center" /></p>
+:ET
