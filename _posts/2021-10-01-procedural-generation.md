@@ -5,7 +5,7 @@ subtitle: "Creating an Earth-like world in C++ OpenFrameworks"
 background: '/img/posts/procedural-generation/hills.jpg'
 ---
 
-This is a C++ [OpenFrameworks](https://openframeworks.cc/) application that can generate an endless amount of terrain [meshes](https://en.wikipedia.org/wiki/Polygon_mesh). The user can tweak parameters from the UI with real-time updates. See the video below.
+This is a C++ [OpenFrameworks](https://openframeworks.cc/) application that can generate an infinite amount of terrain [meshes](https://en.wikipedia.org/wiki/Polygon_mesh). The user can tweak parameters from the UI with real-time updates. See the video below.
 
 <iframe src="https://www.youtube.com/embed/L4ozXb8_jkY" height="500px" width="100%"></iframe>
 
