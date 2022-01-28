@@ -1,0 +1,2 @@
+I"-<p>I collected with web scraping 22000 category labeled articles from multiple Romanian news sites and did data exploration and text classification. The dataset contains news articles with columns: <em>URL</em>, <em>source</em>, <em>date</em>, <em>category</em>, <em>title</em>, <em>content</em>.</p>
+:ET
