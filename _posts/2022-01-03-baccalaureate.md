@@ -67,4 +67,4 @@ The third exam, which has a selectable subject, is the easiest one for getting a
 
 ## Conclusion
 
-I hope you found this article helpful in understanding the students' background and results. The figures were made in Python Plotly. The source code can be found on my [GitHub profile](https://github.com/EdwardLiv) and the data on the [Government's open datasets](https://data.gov.ro/) website.
+I hope you found this article helpful in understanding the students' background and results. The figures were made in Python Plotly. The source code is on my [GitHub repository](https://github.com/EdwardLiv/Baccalaureate-Data-Visualization) and data on the [Government's open datasets](https://data.gov.ro/) website.
