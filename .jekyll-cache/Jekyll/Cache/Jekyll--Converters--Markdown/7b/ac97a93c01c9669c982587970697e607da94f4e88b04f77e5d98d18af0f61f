@@ -1,2 +1,0 @@
-I"€<p>I tried two CNN models to solve the task. The first one, with a simple architecture inspired by LeNet, had at most 54% validation accuracy. It didnâ€™t get a great accuracy, but it was fast to implement and fast to train. The second model, similar to VGG16, had at most 75% validation accuracy (for a single model, not ensemble) and was used for making the Kaggle submissions.</p>
-:ET
